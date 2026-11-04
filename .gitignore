@@ -1,0 +1,16 @@
+# Node / плагин Obsidian
+node_modules/
+plugin/node_modules/
+plugin/dist/
+plugin/main.js
+plugin/*.js.map
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Временные файлы
+*.tmp
+*.log
